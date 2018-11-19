@@ -15,4 +15,5 @@
   * There is no assignment
 * __Task 7:__
   * coming soon...
-
+* __Task 8:__
+  * [Recurrent Newral Network](https://github.com/BEANefiT/track_NN/blob/master/RNN/RNN.ipynb)
